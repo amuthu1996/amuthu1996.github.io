@@ -15,14 +15,17 @@
 # in the templates via {{ site.myvariable }}.
 title: Muthu Palaniappan Alagappan
 email: muthupaa@usc.edu
+email: amuthu1996@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Computer Science graduate student@USC. My interest revolves around AI, Machine Learning
+  and it's application to computer vision, NLP problems. I'm looking for a summer
+  internship in Software Engineering/ML roles
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "muthu.ml" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "http://muthu.ml" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: in/muthupaa
 github_username:  amuthu1996
+
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
